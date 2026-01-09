@@ -1,12 +1,8 @@
 # MEVN Stack 
-
-## MongoDB
-
-## Express
-
-## VueJS 3
-
-## Node
+- MongoDB
+- Express
+- VueJS 3
+- Node
 
 ## Cargar api
 ### >npm run dev
