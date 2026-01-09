@@ -1,0 +1,30 @@
+{
+  "name": "mevn-stack-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "webpack": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.1.1",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.11",
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@vue/compiler-sfc": "^3.5.26",
+    "babel-loader": "^10.0.0",
+    "vue-loader": "^17.3.1",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
