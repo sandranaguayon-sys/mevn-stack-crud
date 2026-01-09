@@ -1,19 +1,19 @@
-#MEVN Stack 
+# MEVN Stack 
 
-##MongoDB
+## MongoDB
 
-##Express
+## Express
 
-##VueJS 3
+## VueJS 3
 
-##Node
+## Node
 
-##Cargar api
-###>npm run dev
+## Cargar api
+### >npm run dev
 
-##Compilar webpack
-###>npm run webpack
+## Compilar webpack
+### >npm run webpack
 
-##Compilar webpack producción
-###>npm run build
+## Compilar webpack producción
+### >npm run build
 
